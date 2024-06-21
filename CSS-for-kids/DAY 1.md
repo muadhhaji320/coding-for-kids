@@ -1,3 +1,5 @@
+### DAY 1: CSS
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -24,3 +26,4 @@ p {
 
 </body>
 </html>
+```
