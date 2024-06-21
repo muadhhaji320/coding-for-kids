@@ -1,3 +1,5 @@
+### DAY 1: Javascript
+```html
 <!DOCTYPE html>
 <html>
 <body>
@@ -10,4 +12,4 @@
 
 </body>
 </html>
-
+```
