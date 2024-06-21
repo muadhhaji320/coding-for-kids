@@ -1,5 +1,5 @@
 ### DAY 3: HTML
-```
+```html
 <!DOCTYPE html>
 <html>
 <body>
